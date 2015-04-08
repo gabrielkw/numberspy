@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NumberSpy</string>
+    <string name="insert_number">Insert a number</string>
+    <string name="action_settings">Settings</string>
+    <string name="spy_verb">Spy!</string>
+
+</resources>
